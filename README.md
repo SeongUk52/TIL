@@ -11,7 +11,7 @@ Today I Learned
 
 
 ## 공부 내용
-- [알고리즘](Algorithm/AlgorithmTheory/알고리즘 이론.md)
+- [알고리즘](Algorithm/AlgorithmTheory/알고리즘이론.md)
 - 자바
 - 데이터베이스
 - 네트워크
