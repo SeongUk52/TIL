@@ -1,7 +1,7 @@
 # TIL
 Today I Learned
 
-그날 공부한 내용들을 정리하는 레퍼지토리
+그날 공부한 내용들을 정리하는 공간
 
 
 
@@ -22,6 +22,7 @@ Today I Learned
 - [디자인패턴](CS(ComputerScience)/디자인패턴/디자인패턴.md)
 - 자료구조
 - 운영체제
+- [객체지향 프로그래밍(OOP)](OOP/OOP.md)
 
 ## 공부 기록
 - [2023년](!!DailyLog!!/2023/2023년_TIL_모음.md)
