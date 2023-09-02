@@ -3,6 +3,10 @@ Today I Learned
 
 그날 공부한 내용들을 정리하는 레퍼지토리
 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonguk52)](https://solved.ac/seonguk52/)
+
 ## 기록 방법
 - [노션](https://seong-uk52.notion.site/2488c0f862894914b25c67e6a0240a2b?pvs=4)으로 내용 정리 후 md파일로 추출
 
