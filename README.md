@@ -17,12 +17,14 @@ Today I Learned
 ## 공부 내용
 - [알고리즘](Algorithm/AlgorithmTheory/알고리즘이론.md) ([백준 문제풀이](Algorithm/SolvedProblem/백준_문제.md))
 - [자바](Java/Java.md)
+- Spring
 - 데이터베이스
 - 네트워크
 - [디자인패턴](CS(ComputerScience)/디자인패턴/디자인패턴.md)
 - 자료구조
 - 운영체제
 - [객체지향 프로그래밍(OOP)](OOP/OOP.md)
+- [우테코 6기 준비](우아한테크코스/우테코_6기_준비/우테코_6기_준비.md)
 
 ## 공부 기록
 - [2023년](!!DailyLog!!/2023/2023년_TIL_모음.md)
