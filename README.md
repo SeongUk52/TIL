@@ -6,9 +6,12 @@ Today I Learned
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonguk52)](https://solved.ac/seonguk52/)
+ <img src="http://mazandi.herokuapp.com/api?handle=seonguk52&theme=warm"/>
+
 
 ## 기록 방법
 - [노션](https://seong-uk52.notion.site/2488c0f862894914b25c67e6a0240a2b?pvs=4)으로 내용 정리 후 md파일로 추출
+- 파이참 활용
 
 
 #### [이전 공부 기록(알고리즘 위주, ~2023.09.01)](https://github.com/SeongUk52/study_self)
@@ -28,3 +31,8 @@ Today I Learned
 
 ## 공부 기록
 - [2023년](!!DailyLog!!/2023/2023년_TIL_모음.md)
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
