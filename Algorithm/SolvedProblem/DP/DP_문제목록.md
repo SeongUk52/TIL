@@ -1,4 +1,4 @@
-# 힙큐
+# 다이내믹 프로그래밍
 ## [이론](https://ko.wikipedia.org/wiki/%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95)
 ## 백준
 
