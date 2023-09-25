@@ -19,6 +19,9 @@ Today I Learned
 
 
 ## 공부 내용
+
+---
+
 - [알고리즘](Algorithm/AlgorithmTheory/알고리즘이론.md) ([백준 문제풀이](Algorithm/SolvedProblem/백준_문제.md))
 - [자바](Java/Java.md)
 - Spring
@@ -26,17 +29,14 @@ Today I Learned
 - 네트워크
 - [디자인패턴](CS(ComputerScience)/디자인패턴/디자인패턴.md)
 - 자료구조
-- 운영체제
+- [운영체제](CS%28ComputerScience%29%2F%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%2F%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
+- [컴퓨터구조](CS%28ComputerScience%29%2F%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0%2F%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0.md)
 - [객체지향 프로그래밍(OOP)](OOP/OOP.md)
 - [우테코 6기 준비](우아한테크코스/우테코_6기_준비/우테코_6기_준비.md)
 
-## 독서 목록
-- [x] [객체지향의_사실과_오해](OOP%2F%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%82%AC%EC%8B%A4%EA%B3%BC_%EC%98%A4%ED%95%B4%2F%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%82%AC%EC%8B%A4%EA%B3%BC_%EC%98%A4%ED%95%B4.md)
-- [x] [자소서바이블](%EA%B8%B0%ED%83%80%2F%EC%9E%90%EC%86%8C%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B8%94.md)
-- [ ] [ModernJavaInAction](Java%2FModernJavaInAction%2FModernJavaInAction.md)
-- [x] [함께_자라기](CS%28ComputerScience%29%2F%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0%2F%EC%95%A0%EC%9E%90%EC%9D%BC%2F%ED%95%A8%EA%BB%98_%EC%9E%90%EB%9D%BC%EA%B8%B0%2F%ED%95%A8%EA%BB%98_%EC%9E%90%EB%9D%BC%EA%B8%B0.md)
-- [ ] [이펙티브자바](Java%2FEffectiveJava3E%2F%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%EC%9E%90%EB%B0%94.md) -보류-
+---
 
+## [독서목록](%EB%8F%85%EC%84%9C%2F%21%EB%8F%85%EC%84%9C%EB%AA%A9%EB%A1%9D.md) 
 
 
 ## 공부 기록
