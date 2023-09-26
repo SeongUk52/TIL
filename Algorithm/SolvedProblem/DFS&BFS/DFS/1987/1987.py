@@ -15,9 +15,9 @@ def dfs(graph,row,col,r,c,max,visited,depth):
             if visited[ord(n)-65] == False:
                 dfs(graph,newRow,newCol,r,c,max,visited,depth+1)
                 visited[ord(n)-65] = False
-max = [0]
+maxi = [0]
 r,c = map(int,input().split())
 graph = [list(input()) for i in range(r)]
 visited = [False for _ in range(26)]
-dfs(graph,0,0,r,c,max,visited,1)
-print(max[0])
+dfs(graph, 0, 0, r, c, maxi, visited, 1)
+print(maxi[0])
