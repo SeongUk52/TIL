@@ -2,6 +2,12 @@
 ## [이론](https://ko.wikipedia.org/wiki/%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95)
 ## 백준
 
+### 브론즈
+
+- 1: 
+[2748](%EC%8B%A4%EB%B2%84%2F2748.md)
+
+
 ### 실버
 
 ---
