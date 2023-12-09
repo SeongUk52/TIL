@@ -24,7 +24,7 @@ Today I Learned
 
 - [알고리즘](Algorithm/AlgorithmTheory/알고리즘이론.md) ([백준 문제풀이](Algorithm/SolvedProblem/백준_문제.md))
 - [자바](Java/Java.md)
-- Spring
+- [SpringBoot](SpringBoot%2FSpringBoot.md)
 - 데이터베이스
 - 네트워크
 - [디자인패턴](CS(ComputerScience)/디자인패턴/디자인패턴.md)
