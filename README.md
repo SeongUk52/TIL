@@ -41,6 +41,7 @@ Today I Learned
 
 ## 공부 기록
 - [2023년](!!DailyLog!!/2023/2023년_TIL_모음.md)
+- [2024년](!!DailyLog!!/2024/2024년_TIL_모음.md)
 
 
 
