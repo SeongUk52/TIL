@@ -107,6 +107,9 @@ temp = graph[:]
 result = []
 bt([])
 maxV = 0
+for i in range(n):
+    if maxV < max(graph[i]):
+        maxV = max(graph[i])
 for i in result:
     ll = [graph[j][:] for j in range(n)]
     for j in i:
