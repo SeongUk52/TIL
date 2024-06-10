@@ -20,6 +20,7 @@ if s % 4763 == 0:
             if s == a + b and [r1, r2] not in result:
                 result.append([r1, r2])
                 cnt += 1
+result.sort(key=lambda x: (x[0], x[1]))
 print(cnt)
-for i in result:
-    print(*i)
+for i in range(cnt):
+    print(*result[i])
