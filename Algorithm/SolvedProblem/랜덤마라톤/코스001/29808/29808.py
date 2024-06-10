@@ -17,7 +17,7 @@ if s % 4763 == 0:
             else:
                 r2 = j - 200
                 b = r2 * 305
-            if s == a + b:
+            if s == a + b and [r1, r2] not in result:
                 result.append([r1, r2])
                 cnt += 1
 print(cnt)
