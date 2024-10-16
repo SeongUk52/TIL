@@ -1,0 +1,1 @@
+print(__import__('math').prod([int(input()) for _ in range(2)]))
