@@ -1,0 +1,1 @@
+print("\n".join("koosaga" if int(N) % 2 else "cubelover" for N in __import__('sys').stdin.read().split()[1:]))
