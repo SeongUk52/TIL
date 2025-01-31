@@ -1,3 +1,8 @@
+# TIL 이전했습니다.
+# [새 TIL 작성 velog](https://velog.io/@seonguk52/posts?tag=TIL)
+
+
+
 # TIL
 Today I Learned
 
